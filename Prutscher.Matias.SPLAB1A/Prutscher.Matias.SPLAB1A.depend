@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1625667397 source:c:\users\maty\documents\carrera\primer cuatrimestre\validaciones\splab1.1a\prutscher.matias.splab1a\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedlist.h"
+	"ePais.h"
+
+1625667417 c:\users\maty\documents\carrera\primer cuatrimestre\validaciones\splab1.1a\prutscher.matias.splab1a\linkedlist.h
+
+1625667047 c:\users\maty\documents\carrera\primer cuatrimestre\validaciones\splab1.1a\prutscher.matias.splab1a\epais.h
+	"linkedlist.h"
+
+1625667079 source:c:\users\maty\documents\carrera\primer cuatrimestre\validaciones\splab1.1a\prutscher.matias.splab1a\epais.c
+	<stdio.h>
+	<stdlib.h>
+	"ePais.h"
+	<string.h>
+	"linkedlist.h"
+	"utn_biblioteca.h"
+
+1625667480 c:\users\maty\documents\carrera\primer cuatrimestre\validaciones\splab1.1a\prutscher.matias.splab1a\utn_biblioteca.h
+	"LinkedList.h"
+
+1625667653 source:c:\users\maty\documents\carrera\primer cuatrimestre\validaciones\splab1.1a\prutscher.matias.splab1a\controladores.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+	"ePais.h"
+	<string.h>
+	"controladores.h"
+
+1625666922 c:\users\maty\documents\carrera\primer cuatrimestre\validaciones\splab1.1a\prutscher.matias.splab1a\controladores.h
+
+1625667608 source:c:\users\maty\documents\carrera\primer cuatrimestre\validaciones\splab1.1a\prutscher.matias.splab1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"linkedlist.h"
+	"controladores.h"
+	"ePais.h"
+	"utn_biblioteca.h"
+
+1625667475 source:c:\users\maty\documents\carrera\primer cuatrimestre\validaciones\splab1.1a\prutscher.matias.splab1a\utn_biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn_biblioteca.h"
+

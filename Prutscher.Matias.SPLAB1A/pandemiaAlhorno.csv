@@ -1,0 +1,31 @@
+id,pais,vac1dosis,vac2dosis,sinVacunar
+3,Albania,13,66,21
+4,Canada,24,39,37
+9,Brazil,18,47,35
+12,France,6,83,11
+14,Russia,12,54,34
+17,Indonesia,21,70,9
+18,Dominica,5,55,40
+20,Uganda,34,48,18
+29,Nigeria,10,48,42
+30,Barbados,10,69,21
+32,Portugal,22,49,29
+35,Colombia,5,71,24
+36,Greece,13,82,5
+41,Peru,7,64,29
+44,Marshall Islands,21,68,11
+48,Argentina,6,67,27
+54,Netherlands,2,51,47
+55,Belize,26,63,11
+59,Uruguay,32,46,22
+67,Paraguay,5,55,40
+68,Ireland,31,46,23
+70,Bolivia,14,48,38
+71,Dominican Republic,24,41,35
+72,Iran,29,50,21
+73,Afghanistan,21,61,18
+84,Japan,27,42,31
+86,Senegal,31,52,17
+89,Poland,9,64,27
+91,Chile,35,50,15
+97,Spain,23,67,10
